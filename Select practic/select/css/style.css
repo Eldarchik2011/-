@@ -1,0 +1,38 @@
+.parent {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background-color:#ff6600 ;
+}
+.child {
+    width: 50px;
+    height: 50px;
+    border: 1px dashed chartreuse;
+    background-color:#398ceb;
+
+}
+.neighbor {
+    width: 300px;
+    height: 150px;
+    border: 2px dashed blue;
+}
+.blok-bg {
+    width: 350px;
+    height: 150px;
+    border: 2px dashed red;
+}
+.child2 {
+    width: 50px;
+    height: 50px;
+    border: 1px dashed chartreuse;
+    background-color:#bc8f8f;
+}
+.image {
+   
+ width: 350px;
+ background-image: url(picture);
+ background-repeat 
+ background - position: left: 100%;
+ background-size cover
+}
+
